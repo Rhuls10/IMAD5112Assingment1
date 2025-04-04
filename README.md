@@ -18,7 +18,6 @@ Meal Output: Suggests a relevant meal or snack for that time.
 Reset Button: Clears both input and suggestion fields. 
 Error Feedback: Shows a helpful message if input is not recognized. 
 
- 
 
 Meal Suggestions by Time:
 Morning: Eggs 
